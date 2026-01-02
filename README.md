@@ -61,6 +61,8 @@ dataset/
  ├── train/
  └── test/
 
+---
+
 ## 📊 Results
 
 - High accuracy achieved during training and validation
