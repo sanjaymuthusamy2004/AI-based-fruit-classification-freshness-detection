@@ -84,7 +84,10 @@ dataset/
 ## 📸 Sample Outputs
 
 - Training accuracy and loss graphs
+ [Model Accuracy Graph](Result-images/Model-accuracy.png) , [Model Loss Graph](Result-images/Model-loss.png) 
 
 - Sample predictions on test images
+  [Prediction Image](Result-images/Test-prediction-image.png) 
 
 - Confusion matrix for performance evaluation
+  [Confusion Matrix](Result-images/confusion-matrix.png) 
